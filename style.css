@@ -1,0 +1,102 @@
+/* header */
+.h1{
+    color: black;
+}
+.h1:hover{
+    color: green;
+}
+
+.header{
+    color: white;
+    background: url('images/slider/1.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    padding: 150px 0;
+}
+.btn-header{
+    background-color: green;
+    color: white;
+    padding: 15px 60px;
+    border-radius: 30px;
+    
+}
+.btn-header:hover{
+    background-color: white;
+    color: green;
+    padding: 15px 60px;
+    border-radius: 30px;
+}
+
+/* service */
+.solution{
+    color: white;
+    background: url('images/divider-bg.jpg');
+    padding: 150px;
+}
+
+/* about */
+.h1-about{
+    color: green;
+}
+
+/* team */
+.h3-team{
+    color: green;
+}
+/* newsletter */
+.btn-team{
+    color: white;
+    background-color: green;
+    padding: 15px 60px;
+    border-radius: 50px;
+}
+.btn-team:hover{
+    color: green;
+    background-color: white;
+    padding: 15px 60px;
+    border-radius: 50px;
+}
+.newsletter{
+    color: white;
+    background: url('images/newsletter-bg.jpg');
+    background-position: center;
+    padding: 150px 0;
+}
+
+/* pricing */
+.h1-pricing{
+    color: green;
+}
+.btn-pricing{
+    color: white;
+    background-color: green;
+    padding: 5px 30px;
+    border-radius: 50px;
+}
+.btn-pricing:hover{
+    color: green;
+    background-color: white;
+    padding: 5px 30px;
+    border-radius: 50px;
+}
+
+/* project */
+.project col-md-4{
+    padding: 50px 50px;
+    
+}
+
+/* contact */
+.contact{
+    color: white;
+    background: url('images/contact-bg.jpg');
+    background-position: center;
+    padding: 150px;
+}
+
+/* footer */
+.footer{
+    color: white;
+    background-color: black;
+    padding: 80px 0;
+}
